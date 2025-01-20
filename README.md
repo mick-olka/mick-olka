@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mykola Hutsal and I'm a software developer, from Ukraine</p>
+<p align="left">My name is Mykola Hutsal and I'm a software developer from Ukraine</p>
 
 ###
 
